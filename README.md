@@ -17,6 +17,7 @@
 
  Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total. </p>
 
+### Achievements:  
 To add users as customers to the code, modify the handleAddTransaction function to include a customer ID in the transaction object. Then, modify the calculateRewards function to group transactions by customer and calculate total rewards for each customer.
 
 The RewardCalculator component in the code has three states: transactions, dollarsSpent, and pointsEarned. Users can input the dollar amount spent and click "Calculate" to update pointsEarned and transactions states. The component shows a message with the number of points earned and a table of transaction history.
