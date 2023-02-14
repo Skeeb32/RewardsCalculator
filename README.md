@@ -27,7 +27,7 @@ To customize the appearance of the React components, add CSS styles to adjust fo
 
 The RewardCalculator calculates reward points for a single transaction based on given rules, and displays the total reward points to the user.
 
-## Programming Languages
+## Programming Languages:
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
 
  ## Technologies Used: 
